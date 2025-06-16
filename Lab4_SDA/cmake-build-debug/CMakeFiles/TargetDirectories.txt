@@ -1,0 +1,3 @@
+C:/Users/vadim/Desktop/Lab4_SDA/cmake-build-debug/CMakeFiles/Lab4_SDA.dir
+C:/Users/vadim/Desktop/Lab4_SDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vadim/Desktop/Lab4_SDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
